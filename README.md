@@ -1,1 +1,2 @@
-# Multi_phase-Field-for-FRC-using-Puck-theory
+# Multi_Phase-Field-for-FRC-using-Puck-theory
+
