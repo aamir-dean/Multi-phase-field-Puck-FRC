@@ -1,0 +1,1 @@
+This folder correspond to the example of the Bi-material interface. In this the first section always has fiber orientation of 0 degree, followed by a change in the angle. The angles in the Both of the material interface can be changed. if you want to add more interfaces, please add new sections similar to the example shown here. 
