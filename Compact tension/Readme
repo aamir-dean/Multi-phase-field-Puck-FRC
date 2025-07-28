@@ -1,0 +1,2 @@
+This folder consists of the example corresponding to the Compact Tension. 
+Please note that, due to the large mesh, we have create seperate files for nodes, mesh, and the dummy mesh. Each of these files are called in the main files named "CT_angle". 
