@@ -1,6 +1,6 @@
-# Multi_Phase-Field-for-FRC-using-Puck-theory
+# Multi-Phase-Field-for-FRC-using-Puck-theory
 
-The codes Presented here are used in the paper "Revisiting Multi-Phase field for FRCs using Puck failure theory". The codes can be used with AT2, AT1 models. We have tested the files for version Abaqus2020, Abaqus2022, Abaqus2024. 
+The codes presented here are used in the paper "Revisiting Multi-Phase field for FRCs using Puck failure theory". The codes can be used with AT2, AT1 models. We have tested the files for version Abaqus2020, Abaqus2022, Abaqus2024. 
 All the material properties required are presented in the pfall.f file, and the input file corresponding to each example in the paper are given. 
 
 Please note that if your initial mesh is Bigger than 70000, Third line in the module Kvisual "UserVar(70000,16,4)" has to be changed to the upper limit of the number of the mesh. 
