@@ -5,17 +5,12 @@ All the material properties required are presented in the pfall.f file, and the 
 
 Please note that if your initial mesh is bigger than 70000, third line in the module Kvisual "UserVar(70000,16,4)" has to be changed to the upper limit of the number of the mesh. 
 
-If you are using this code for the academic research or industrial purpose, please cite our paper 
+If you are using this code for the academic research or industrial purpose, please cite our papers: 
 
-
-
-1. Pavan Kumar Asur, Rafeal Fleischhaker, Aamir Dean, Heinz E Pettermann "Revisiting Multi-phase field model for FRCs using Puck failure theory", Under Revision to Composites Structures.
-2. A. Dean, Pavan Kumar AV, J. Reinoso, C. Gerendt, E.Mahdi, M. Paggi, R. Rolfes, "A multi-phase field fracture model for long fibre reinforced composites based on the Puck theory of failure" composite structures Volume 251, 1 November 2020, 112446.
-3.  Pavan Kumar AV, A. Dean, J. Reinoso, M. Paggi, "A Multi Phase-Field-Cohesive Zone Model for Laminated Composites: Application to Delamination Migration" composite structures,Volume 276, 15 November 2021, 114471.
-
+1. P.K.A.V. Kumar, R. Fleischhaker, A. Dean, H.E. Pettermann "Revisiting multi-phase field model for FRCs using Puck failure theory", Accepted for publication in Composite structures, 2025.
+2. A. Dean, P.K.A.V. Kumar, J. Reinoso, C. Gerendt, E. Mahdi, M. Paggi, R. Rolfes, "A multi-phase field fracture model for long fibre reinforced composites based on the Puck theory of failure", Composite structures, Volume 251, 2020, 112446.
+3. P.K.A.V. Kumar, A. Dean, J. Reinoso, M. Paggi, "A multi phase-field-cohesive zone model for laminated composites: Application to delamination migration", Composite structures, Volume 276, 2021, 114471.
 
 Authors: 
-
 Pavan Kumar Asur: asurpavankumar@gmail.com , pavan.kumar@tuwien.ac.at
-
 Aamir Dean, "aamir-dean", a.dean@isd.uni-hannover.de
